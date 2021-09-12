@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\snake\\Snake\\Snake\\Snake.csproj",
+      "projectUniqueName": "D:\\Project\\snake\\snake\\Snake\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "D:\\Projects\\snake\\Snake\\Snake\\Snake.csproj",
+      "projectPath": "D:\\Project\\snake\\snake\\Snake\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\snake\\Snake\\Snake\\obj\\",
+      "outputPath": "D:\\Project\\snake\\snake\\Snake\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
